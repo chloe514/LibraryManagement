@@ -1,9 +1,9 @@
 public class LibraryManagementSystem {
     public static void main(String[] args) {
-        // Creating a library
+        // Creating a library instance
         Library library = new Library();
 
-        // Creating users
+        // Creating user instances
         User user1 = new User("Alice", "12345");
         User user2 = new User("Bob", "67890");
 
